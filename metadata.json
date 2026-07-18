@@ -1,0 +1,6 @@
+{
+  "name": "AI Intelligence Hub",
+  "description": "A modern, personalized AI tool discovery, news, and recommendation platform tailored to your professional skills and learning goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
